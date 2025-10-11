@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/LevelsMAMA/MapWithAssets.umap",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/_GENERATED/alu765/TFormPlatform.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/LevelsMAMA/_GENERATED/alu765/CubeGridToolOutput_ECCBE514.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_WindowFrame.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_TableRound.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Statue.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Stairs.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Shelf.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Rock.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_PillarFrame300.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Lamp_Wall.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_GlassWindow.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_DoorFrame.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Couch.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_CornerFrame.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Chair.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Props/SM_Bush.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Pillar_50x500.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/SM_AssetPlatform.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_400x200.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_400x300.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_400x400.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_500x500.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_Door_400x300.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_Window_400x300.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Architecture/Wall_Window_400x400.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/alu765/Documents/Unreal Projects/test/Content/StarterContent/Maps/Advanced_Lighting.umap"
+			]
+		}
+	]
+}
