@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/BP_Example.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Props/Materials/M_Bush.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Glass.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Props/Materials/M_Shelf.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Wood_Walnut.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Water_Lake.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/StarterContent/Materials/M_Tech_Panel.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/Myasai.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/E1/MNO7N9WQDT1A4GIEGZLIHJ.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/Pedro.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/Kensa.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NX/56GE2UW5M3GR7LJPDVWBI5.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/DevilsBomb.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Lauti/Documents/Unreal Projects/TestZone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IE/52EI96EN92DXV2CRG7UF4K.uasset"
+			]
+		}
+	]
+}
