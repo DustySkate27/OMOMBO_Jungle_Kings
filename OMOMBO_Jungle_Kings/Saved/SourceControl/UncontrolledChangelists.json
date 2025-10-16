@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
+				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/ThirdPerson/Blueprints/Pedro.uasset",
+				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/WB_Texts/WB_Pause.uasset",
+				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/Pause/WB_Pause.uasset",
 				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/StarterContent/Props/SM_WindowFrame.uasset",
 				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/StarterContent/Props/SM_TableRound.uasset",
 				"C:/Users/alu765/Documents/GitHub/OMOMBO_Jungle_Kings/OMOMBO_Jungle_Kings/Content/StarterContent/Props/SM_Door.uasset",
